@@ -1,0 +1,13 @@
+body {
+    background-color: red;
+}
+
+p {
+   border-color: purple;
+   border-width: 10px; 
+   border-style: dotted;
+}
+
+h1 {
+    width: 100px;
+}
